@@ -4,6 +4,7 @@
 
 ![Screenshot](./screenshot.png)
 
+
 ## Install
 
 All instructions can be found at [draculatheme.com/joplin](https://draculatheme.com/joplin).
